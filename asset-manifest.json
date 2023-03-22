@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/quiz-game-react/static/css/main.b7243767.css",
+    "main.js": "/quiz-game-react/static/js/main.560ff0a1.js",
+    "static/js/787.9298c13d.chunk.js": "/quiz-game-react/static/js/787.9298c13d.chunk.js",
+    "static/media/Chamber_valarant.png": "/quiz-game-react/static/media/Chamber_valarant.c19af1d47a9d6e08c0ea.png",
+    "static/media/valarant_Jett.png": "/quiz-game-react/static/media/valarant_Jett.940cfd8dd7fbe4c79ffc.png",
+    "index.html": "/quiz-game-react/index.html",
+    "main.b7243767.css.map": "/quiz-game-react/static/css/main.b7243767.css.map",
+    "main.560ff0a1.js.map": "/quiz-game-react/static/js/main.560ff0a1.js.map",
+    "787.9298c13d.chunk.js.map": "/quiz-game-react/static/js/787.9298c13d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7243767.css",
+    "static/js/main.560ff0a1.js"
+  ]
+}
